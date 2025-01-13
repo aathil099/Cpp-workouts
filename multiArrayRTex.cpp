@@ -12,7 +12,7 @@ int main(){
     int count =0; 
     int numberOfTurns = 0;
 
-    while(count<4){
+    while(count<4){ 
         int row,col;
 
         //Q1
